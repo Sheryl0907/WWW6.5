@@ -22,4 +22,5 @@ contract PremiumDepositBox is BaseDepositBox {
     function getMetadata(address caller) external view onlyOwner(caller) returns (string memory) {
         return metadata;
     }
+    
 }

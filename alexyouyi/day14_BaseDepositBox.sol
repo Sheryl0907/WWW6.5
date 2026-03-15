@@ -43,4 +43,5 @@ abstract contract BaseDepositBox is IDepositBox{
     function getDepositTime() external view virtual override returns(uint256) {
         return depositTime;
     }
+    
 }

@@ -84,5 +84,4 @@ contract VaultManager{
             box.getOwner()
         );
     }
-
 }

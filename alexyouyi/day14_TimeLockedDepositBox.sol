@@ -34,5 +34,4 @@ contract TimeLockedDepositBox is BaseDepositBox {
         }
     }
 
-    
 }
