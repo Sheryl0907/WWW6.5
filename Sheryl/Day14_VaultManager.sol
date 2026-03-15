@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 import "./Day14_IDepositBox.sol";
 import "./Day14_BasicDepositBox.sol";
 import "./Day14_PremiumDepositBox.sol";
-import "./Day14_TimeLockedDepositBox.sol";
+import "./Day14_TimelockedDepositBox.sol";
 
 contract VaultManager{
 
