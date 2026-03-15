@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "WWW6.5/Sheryl/Day13_MyToken.sol";
+import "./Day13_MyToken.sol";
 
 
 contract PreOrderToken is MyToken {
